@@ -7,7 +7,7 @@ excerpt: "A comparative empirical legal study of enacted social media regulation
 
 The study examines how enacted laws and regulations are beginning to govern the design and operation of social media platforms directly, including account access, feeds and recommendation systems, and engagement features.
 
-It compares eight selected regulatory systems: the United States, European Union, United Kingdom, Australia, Canada, Brazil, China, and Indonesia. The resulting dataset contains **34 qualifying regulatory actions** identified across seven of those systems. Canada remained part of the comparative design but produced no qualifying action during the study period. The study compares the emerging U.S. state landscape with regulatory approaches outside the United States and separately tracks whether enacted requirements were legally operative at the study cutoff.
+It compares eight selected regulatory systems: the United States, European Union, United Kingdom, Australia, Canada, Brazil, China, and Indonesia. The resulting dataset contains **34 qualifying regulatory actions** identified across seven of those systems. Canada remained part of the comparative design but produced no qualifying action during the study period. The study compares the emerging U.S. state landscape with regulatory approaches outside the United States and separately tracks whether enacted requirements were legally operative at the September 11, 2026 cutoff.
 
 ## Research
 
