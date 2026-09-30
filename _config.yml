@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Aaliyah Biondo"
+masthead_title: "Home"
 email: "aaliyahbiondo@outlook.com"
-description:
+description: "Personal research and project portfolio focused on law, technology, and behavioral science."
 github_username: atjbiondo
 minimal_mistakes_skin: default
 search: false
