@@ -10,7 +10,7 @@ I’m interested in legal questions raised by data, digital platforms, and emerg
 
 ### Regulating the Feed
 
-A comparative empirical legal study of 34 enacted social media regulatory actions across eight selected regulatory systems, examining how governments regulate platform access, recommendation systems, engagement design, and the legal status of those requirements.
+An empirical legal study comparing how eight selected regulatory systems govern platform access, recommendation systems, engagement design, and operative legal status. The analysis is based on 34 qualifying enacted actions identified in seven of those systems. Canada remained in the comparative design but produced no qualifying action during the study period.
 
 [View the project →](/portfolio/regulating-the-feed/)
 
@@ -18,4 +18,4 @@ A comparative empirical legal study of 34 enacted social media regulatory action
 
 My background spans neuroscience, economics, and legal work. I studied neuroscience at Bowdoin College with a minor in economics, and my professional experience includes litigation support and law-office operations. Over time, my interests have centered on legal questions where technical systems and human behavior overlap.
 
-I am especially interested in privacy and data governance, AI and platform governance, digital markets, consumer protection, and emerging technologies such as neurotechnology. What draws me to these areas is that the legal questions rarely exist in isolation; they sit within systems shaped by product design, data practices, business incentives, user behavior, and regulatory choices. I tend to ask not only what a legal rule requires, but how it operates in practice, what behavior or incentives it is responding to, and what consequences follow from the way a technology or market is structured.
+What draws me to this work is that the legal questions rarely exist in isolation. They sit within systems shaped by product design, data practices, business incentives, user behavior, and regulatory choices. I tend to ask not only what a legal rule requires, but how it operates in practice, what behavior or incentives it responds to, and what consequences follow from the way a technology or market is structured.
