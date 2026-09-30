@@ -46,7 +46,8 @@ include:
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
-  atom_feed:
+  
+atom_feed:
     hide: true
 
 author:
