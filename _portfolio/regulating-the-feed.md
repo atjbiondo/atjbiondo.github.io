@@ -11,9 +11,7 @@ The project uses a systematically coded dataset of **34 regulatory actions** acr
 
 ## Research
 
-The study focuses on three areas of regulation: **Account and Service Access, Feeds and Recommendation Systems, and Engagement Design**. It also distinguishes five regulatory approaches: Direct Limits, User Choice and Control, Parental Controls, Warnings and Interruptions, and Broader Safety Duties.
-
-The analysis identifies **convergence on shared regulatory targets without convergence on a common legal model**. Engagement Design is the most frequently coded area; most actions in the sample primarily target minors; U.S. state actions more often use Parental Controls, while actions outside the United States more often use Broader Safety Duties. The U.S. landscape is also substantially more fragmented in operative status because enacted requirements are being shaped by litigation, constitutional review, and federal preemption.
+The analysis identifies **convergence on shared regulatory targets without a common legal model**. Engagement Design is the most frequently coded area, and most actions in the sample primarily target minors. U.S. state actions more often use Parental Controls, while actions outside the United States more often use Broader Safety Duties. In the United States, operative status is also more fragmented as enacted requirements are shaped by litigation, constitutional review, and federal preemption.
 
 ## Explore the Project
 

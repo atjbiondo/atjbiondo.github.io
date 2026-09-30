@@ -16,6 +16,6 @@ A comparative empirical legal study of 34 enacted social media regulatory action
 
 ## Background
 
-My background combines litigation experience with an academic foundation in neuroscience and economics. I studied neuroscience and economics at Bowdoin College and later worked in litigation support and law-office operations.
+My background spans neuroscience, economics, and legal work. I studied neuroscience at Bowdoin College with a minor in economics, and my professional experience includes litigation support and law-office operations. Over time, my interests have centered on legal questions where technical systems and human behavior overlap.
 
-That combination shapes how I approach legal questions involving data, digital platforms, and emerging technologies. I am interested in both the legal rules that govern new technologies and the way those technologies interact with behavior, cognition, incentives, markets, and personal data.
+I am especially interested in privacy and data governance, AI and platform governance, digital markets, consumer protection, and emerging technologies such as neurotechnology. What draws me to these areas is that the legal questions rarely exist in isolation; they sit within systems shaped by product design, data practices, business incentives, user behavior, and regulatory choices. I tend to ask not only what a legal rule requires, but how it operates in practice, what behavior or incentives it is responding to, and what consequences follow from the way a technology or market is structured.
